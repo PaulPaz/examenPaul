@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  marc: MyString
+  age: MyText
+  color: MyText
+  price: 9.99
+
+two:
+  marc: MyString
+  age: MyText
+  color: MyText
+  price: 9.99

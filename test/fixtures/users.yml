@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  last: MyString
+  name: MyText
+  rol: MyText
+  carg: MyText
+  birthday: 9.99
+
+two:
+  name: MyString
+  last: MyString
+  name: MyText
+  rol: MyText
+  carg: MyText
+  birthday: 9.99
